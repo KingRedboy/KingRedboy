@@ -60,11 +60,6 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   device specificat
       <br/>
     <details open>
   <summary><h3>Languages</h3></summary>
-            <p align="center">
-        <a href="https://github.com/KingRedboy/">
-          <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=KingRedboy&theme=react&show_icons=true&hide_border=false&layout=compact)"
-          alt="KRB :: overall Top Langs " /></a>
-      </p>
         <p align="center">
           <a href="https://github.com/KingRedboy/">
           <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KingRedboy&theme=react&layout=compact&hide_border=false"
