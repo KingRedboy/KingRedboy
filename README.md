@@ -1,31 +1,31 @@
 <div align="center">
-  <a href="https://github.com/ofcnavdeep">
+  <a href="https://github.com/MannuVilasara">
   <img  src="https://raw.githubusercontent.com/MannuVilasara/MannuVilasara/f2d01ce2f26022eba3a758b7cae35779dcea97cd/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
 -----
 ```console
-mannu@archbtw:~$ neofetch
+redboy@coder:~$ neofetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.                   
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 @Redboy
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 redboy@coder
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
         .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: Windows
       _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 13 years
-    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Shell: /bin/zsh
-   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Editor: vscode
-  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Home: Discord/VSC
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    
-_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    contact information
-a@@@@@@@@@@2                                    v@@@@@@@@@@;   -------------------
-#@@@@@@@@@@_                                     @@@@@@@@@@y   Website: coming soon
-@@@@@@@@@@@.                                     @@@@@@@@@@%   Github: KingRedboy
-#@@@@@@@@@@r                                    :@@@@@@@@@@s   
-W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   device specifications
-~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    ---------------------  
- ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    CPU: Normal Human Brain
-  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     
+    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: 103 (pacman)
+   ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/zsh
+  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: vim, vscode
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: discord/vs code
+_g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
+a@@@@@@@@@@2                                    v@@@@@@@@@@;   contact information
+#@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
+@@@@@@@@@@@.                                     @@@@@@@@@@%   Website: soon
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: KingRedboy
+W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   
+~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    device specifications 
+ ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    ---------------------  
+  n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     CPU: Normal Human Brain
    2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
     .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.
       x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         
@@ -44,8 +44,8 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   device specificat
   <a href="github.com/KingRedboy" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=KingRedboy&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
-  <a href="https://dev-desky.vercel.app/"><img align="center" 
-     src="https://img.shields.io/website?url=https%3A%2F%2Fdsc.gg%2Fzentro" height="25"
+  <a href="https://dev-mannu.vercel.app/"><img align="center" 
+     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25"
      alt="website" /></a>
   </p>
  </samp>
@@ -60,12 +60,17 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   device specificat
       <br/>
     <details open>
   <summary><h3>Languages</h3></summary>
+            <p align="center">
+        <a href="https://github.com/KingRedboy/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingRedboy&langs_count=6&theme=gruvbox&layout=compact&hide_border=false"
+          alt="Mannu :: overall Top Langs " /></a>
+      </p>
         <p align="center">
           <a href="https://github.com/KingRedboy/">
-          <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KingRedboy&theme=react&layout=compact&hide_border=false"
-          alt="KRB :: Top Langs by repo" />
-          <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KingRedboy&theme=react&layout=compact&hide_border=dalse"
-          alt="KRB :: Top Langs by commit" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KingRedboy&theme=gruvbox&layout=compact&hide_border=false"
+          alt="Mannu :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KingRedboy&theme=gruvbox&layout=compact&hide_border=false"
+          alt="Mannu :: Top Langs by commit" />
           </a>
         </p>
 </details>
@@ -73,8 +78,8 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   device specificat
   <summary><h3>stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/KingRedboy/">
-          <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KingRedboy&theme=react&show_icons=true&hide_border=false&count_private=false" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=KingRedboy&theme=react&hide_border=false" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=KingRedboy&show_icons=true&theme=gruvbox&hide_border=false" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=KingRedboy&theme=gruvbox&hide_border=false" />
           </a>
        </p>
      <br>
@@ -88,7 +93,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   device specificat
   <br/>
   <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KingRedboy&bg_color=000000&color=ffffff&line=00E676&point=ffffff&area=true&hide_border=false" /></a>
+  <img alt="azzar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=KingRedboy&bg_color=000&color=fff&line=00E676&point=fff&hide_border=false" /></a>
 <br/>
   </samp>
   </details>
@@ -101,8 +106,9 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   device specificat
   
 -----
 
-[![Skills](https://skillicons.dev/icons?i=js,html,css,py,vscode,discord,discordjs,git,github,cpp,cs,ai,ps,pr,ae)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,html,css,py,neovim,vscode,mysql,mongodb,md,linux,flask,git,github,githubactions,bots)](https://skillicons.dev)
 
 ### Find me here
- [![insta](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/kingredboy587)
-[![dev](https://skillicons.dev/icons?i=discord)](https://discord.gg/VxG4qRkBKY)
+[![dev](https://skillicons.dev/icons?i=devto)](https://guns.lol/KingRedboy) 
+[![insta](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/dev_mannuu)
+[![discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/786926252811485186)
