@@ -66,10 +66,10 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   device specificat
           alt="KRB :: overall Top Langs " /></a>
       </p>
         <p align="center">
-          <a href="https://github.com/ofcnavdeep/">
-          <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KingRedboy&theme=react&layout=compact&hide_border=true"
+          <a href="https://github.com/KingRedboy/">
+          <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KingRedboy&theme=react&layout=compact&hide_border=false"
           alt="KRB :: Top Langs by repo" />
-          <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KingRedboy&theme=react&layout=compact&hide_border=true"
+          <img width="45%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KingRedboy&theme=react&layout=compact&hide_border=dalse"
           alt="KRB :: Top Langs by commit" />
           </a>
         </p>
@@ -77,7 +77,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   device specificat
     <details open>
   <summary><h3>stasistic</h3></summary>
         <p align="center">
-          <a href="https://github.com/ofcnavdeep/">
+          <a href="https://github.com/KingRedboy/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=KingRedboy&theme=react&show_icons=true&hide_border=false&count_private=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=KingRedboy&theme=react&hide_border=true" />
           </a>
@@ -93,7 +93,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   device specificat
   <br/>
   <h2 align="center"> latest contribution </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=&bg_color=000000&color=ffffff&line=00E676&point=ffffff&area=true&hide_border=true" /></a>
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=KingRedboy&bg_color=000000&color=ffffff&line=00E676&point=ffffff&area=true&hide_border=false" /></a>
 <br/>
   </samp>
   </details>
