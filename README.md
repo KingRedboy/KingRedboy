@@ -78,8 +78,8 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   device specificat
   <summary><h3>stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/KingRedboy/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=KingRedboy&theme=react&show_icons=true&hide_border=false&count_private=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=KingRedboy&theme=react&hide_border=true" />
+          <img width="49.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KingRedboy&theme=react&show_icons=true&hide_border=false&count_private=false" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com?user=KingRedboy&theme=react&hide_border=false" />
           </a>
        </p>
      <br>
