@@ -106,7 +106,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
   
 -----
 
-[![Skills](https://skillicons.dev/icons?i=js,html,css,py,neovim,vscode,mysql,mongodb,md,linux,flask,git,github,githubactions,bots)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,html,css,py,vscode,discord,discordjs,git,github,cpp,cs,ai,ps,pr,ae)](https://skillicons.dev)
 
 ### Find me here
 [![dev](https://skillicons.dev/icons?i=devto)](https://guns.lol/KingRedboy) 
