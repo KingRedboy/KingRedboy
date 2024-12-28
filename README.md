@@ -101,7 +101,7 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*
 
 
   
- <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppings&weight=500&pause=1000&color=0E7334&width=435&lines=An+Discord+Server+Dev;Discord+Bot+Dev;Discord+Community+Manager;Minecraft+SMP+Dev;Website+Dev;JS+Expert" alt="Typing SVG" /></a></p>
+ <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppings&weight=500&pause=1000&color=0E7334&width=435&lines=An+cool+Programmer;JS,HTML,CSS,React+Expert;24/7+Depressed+Kid;Hated+by+@everyone;Wana+do+some+Big+Projects;Learning+MERN+Stack" alt="Typing SVG" /></a></p>
   
   
 -----
