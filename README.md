@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/MannuVilasara">
+  <a href="https://github.com/KingRedboy">
   <img  src="https://raw.githubusercontent.com/MannuVilasara/MannuVilasara/f2d01ce2f26022eba3a758b7cae35779dcea97cd/grid-snake.svg"
        alt="snake" /></a>
 </div>
@@ -11,11 +11,11 @@ redboy@coder:~$ neofetch
                    .~vVeZNgQBBBQQg9Ze1v~.                   
               `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 redboy@coder
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
-        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: Windows
+        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: windows 11
       _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: 13 years
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: 103 (pacman)
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/zsh
-  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: vim, vscode
+  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: trae, vscode
  :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: discord/vs code
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
 a@@@@@@@@@@2                                    v@@@@@@@@@@;   contact information
